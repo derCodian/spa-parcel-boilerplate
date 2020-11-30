@@ -1,3 +1,1 @@
-import "./styles.scss";
-
-console.log("hello world!");
+// Imports all dependencies from js folder
